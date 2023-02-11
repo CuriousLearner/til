@@ -3,6 +3,10 @@
 "Byte-sized" 😏 snippets of things I learned :)
 
 <!-- index starts -->
+## django
+
+* [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
+
 ## github-actions
 
 * [Permissions for pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
