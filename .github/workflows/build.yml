@@ -1,0 +1,45 @@
+
+name: Build README
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v3
+      # We need full history to introspect created/updated:
+      with:
+        fetch-depth: 0
+    - name: Set up Python
+      uses: actions/setup-python@v4.5.0
+      with:
+        python-version: 3.11
+    - name: Configure pip caching
+      uses: actions/cache@v3.2.5
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Build database
+      run: python build_database.py
+    - name: Update & Display README
+      run: |-
+        python update_readme.py --rewrite
+        cat README.md
+    - name: Commit and push if README changed
+      run: |-
+        git diff
+        git config --global user.email "miss-readmington@example.com"
+        git config --global user.name "Miss Readmington (Bot)"
+        git diff --quiet || (git add README.md && git commit -m "🚧🧑‍🏭🛠️ Updated README with latest TILs")
+        git push
