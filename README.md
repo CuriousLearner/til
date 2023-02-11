@@ -5,7 +5,7 @@
 <!-- index starts -->
 ## github-actions
 
-* [Pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
+* [Permissions for pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
 
 ## react
 
