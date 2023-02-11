@@ -1,4 +1,4 @@
-# Pushing to a repository
+# Permissions for pushing to a repository
 
 By default, the Github Action's bot has only read permission on the repository it is running the action on.
 
