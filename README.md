@@ -3,6 +3,10 @@
 "Byte-sized" 😏 snippets of things I learned :)
 
 <!-- index starts -->
+## aws
+
+* [ACM certificate should always be in us-east-1 for Cloudfront](https://github.com/CuriousLearner/til/blob/main/aws/acm-cloudfront.md) - 2023-02-12
+
 ## django
 
 * [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
