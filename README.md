@@ -5,6 +5,7 @@
 <!-- index starts -->
 ## aws
 
+* [AWS reserves five IPs per subnet](https://github.com/CuriousLearner/til/blob/main/aws/reserving-five-ips-per-subnet.md) - 2023-02-12
 * [No self-signed certificates in Cloudfront's SSL connection](https://github.com/CuriousLearner/til/blob/main/aws/no-self-signed-certificate-cloudfront.md) - 2023-02-12
 * [ACM certificate should always be in us-east-1 for Cloudfront](https://github.com/CuriousLearner/til/blob/main/aws/acm-cloudfront.md) - 2023-02-12
 
