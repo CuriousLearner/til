@@ -25,6 +25,7 @@
 
 ## VIM
 
+* [Use text objects to make efficient changes](https://github.com/CuriousLearner/til/blob/main/vim/text-objects-to-make-efficient-changes.md) - 2023-02-13
 * [Remove lines matching a pattern](https://github.com/CuriousLearner/til/blob/main/vim/remove-lines-matching-pattern.md) - 2023-02-13
 <!-- index ends -->
 
