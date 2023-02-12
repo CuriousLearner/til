@@ -16,6 +16,7 @@
 
 ## Github Actions
 
+* [Enable automatic inline annotations in PR using Ruff](https://github.com/CuriousLearner/til/blob/main/github-actions/ruff-github-comments.md) - 2023-02-13
 * [Permissions for pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
 
 ## React
