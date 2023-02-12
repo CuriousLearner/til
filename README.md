@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->11<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->12<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -27,6 +27,7 @@
 
 ## VIM
 
+* [Indent and De-indent lines in Vim.](https://github.com/CuriousLearner/til/blob/main/vim/indent-deindent-line.md) - 2023-02-13
 * [Open file on a particular pattern in file](https://github.com/CuriousLearner/til/blob/main/vim/open-file-on-pattern.md) - 2023-02-13
 * [Use text objects to make efficient changes](https://github.com/CuriousLearner/til/blob/main/vim/text-objects-to-make-efficient-changes.md) - 2023-02-13
 * [Remove lines matching a pattern](https://github.com/CuriousLearner/til/blob/main/vim/remove-lines-matching-pattern.md) - 2023-02-13
