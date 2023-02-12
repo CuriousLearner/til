@@ -6,6 +6,17 @@ import sys
 import re
 
 root = pathlib.Path(__file__).parent.resolve()
+KNOWN_ABBREVIATIONS = [
+    "aws",
+]
+
+
+def _get_transformed_topic(topic):
+    transformed_topic = " ".join(topic.split("-")).upper()
+    if topic in KNOWN_ABBREVIATIONS:
+        return transformed_topic.upper()
+    return transformed_topic.title()
+
 
 index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.DOTALL)
 
@@ -20,9 +31,9 @@ if __name__ == "__main__":
     topics = sorted(list(by_topic.keys()))
 
     for topic in topics:
-        index.append("## {}\n".format(topic))
+        index.append(f"## {_get_transformed_topic(topic)}\n")
         rows = by_topic[topic]
-        rows.sort(key=lambda x: x['created'], reverse=True)
+        rows.sort(key=lambda x: x["created"], reverse=True)
         for row in rows:
             index.append(
                 "* [{title}]({url}) - {date}".format(
