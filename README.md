@@ -1,6 +1,8 @@
 # TIL (Today I Learned)
 
-"Byte-sized" 😏 snippets of things I learned :)
+"Byte-sized" 😏 snippets of things I learned 🤔
+
+**<!-- count starts -->10<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
