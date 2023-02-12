@@ -22,6 +22,10 @@
 ## React
 
 * [Not to use && for conditional rendering](https://github.com/CuriousLearner/til/blob/main/react/conditional-rendering.md) - 2023-02-12
+
+## VIM
+
+* [Remove lines matching a pattern](https://github.com/CuriousLearner/til/blob/main/vim/remove-lines-matching-pattern.md) - 2023-02-13
 <!-- index ends -->
 
 * * * * *
