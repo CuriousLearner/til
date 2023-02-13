@@ -10,6 +10,7 @@ KNOWN_ABBREVIATIONS = [
     "aws",
     "vim",
     "cli",
+    "vlc",
 ]
 
 
