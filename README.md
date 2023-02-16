@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->19<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->20<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -19,6 +19,10 @@
 
 * [Use `defer()` to limit fields fetched from models](https://github.com/CuriousLearner/til/blob/main/django/defer-fields-for-performance.md) - 2023-02-12
 * [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
+
+## Django_Extensions
+
+* [Print SQL on ORM queries](https://github.com/CuriousLearner/til/blob/main/django_extensions/print-sql-on-orm-queries.md) - 2023-02-16
 
 ## Git
 
