@@ -15,7 +15,8 @@ KNOWN_ABBREVIATIONS = [
 
 
 def _get_transformed_topic(topic):
-    transformed_topic = " ".join(topic.split("-")).upper()
+    transformed_topic = " ".join(topic.split("-"))
+    transformed_topic = " ".join(transformed_topic.split("_"))
     if topic in KNOWN_ABBREVIATIONS:
         return transformed_topic.upper()
     return transformed_topic.title()
