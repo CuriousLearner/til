@@ -20,7 +20,7 @@
 * [Use `defer()` to limit fields fetched from models](https://github.com/CuriousLearner/til/blob/main/django/defer-fields-for-performance.md) - 2023-02-12
 * [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
 
-## Django_Extensions
+## Django Extensions
 
 * [Print SQL on ORM queries](https://github.com/CuriousLearner/til/blob/main/django_extensions/print-sql-on-orm-queries.md) - 2023-02-16
 
