@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->18<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->19<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -36,6 +36,10 @@
 ## Mastodon
 
 * [Sending direct message on Mastodon](https://github.com/CuriousLearner/til/blob/main/mastodon/send-direct-message.md) - 2023-02-14
+
+## Poetry
+
+* [Clear cache for resolving dependencies faster](https://github.com/CuriousLearner/til/blob/main/poetry/clear-cache-for-resolving-dependencies-faster.md) - 2023-02-16
 
 ## React
 
