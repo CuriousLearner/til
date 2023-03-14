@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->20<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->22<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -40,6 +40,11 @@
 ## Mastodon
 
 * [Sending direct message on Mastodon](https://github.com/CuriousLearner/til/blob/main/mastodon/send-direct-message.md) - 2023-02-14
+
+## PDF
+
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
+* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 
 ## Poetry
 
