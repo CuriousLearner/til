@@ -11,6 +11,7 @@ KNOWN_ABBREVIATIONS = [
     "vim",
     "cli",
     "vlc",
+    "pdf",
 ]
 
 
