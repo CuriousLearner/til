@@ -8,10 +8,12 @@ import re
 root = pathlib.Path(__file__).parent.resolve()
 KNOWN_ABBREVIATIONS = [
     "aws",
-    "vim",
     "cli",
-    "vlc",
     "pdf",
+    "psql",
+    "ssh",
+    "vim",
+    "vlc",
 ]
 
 
