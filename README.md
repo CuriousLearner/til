@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->22<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->24<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -17,6 +17,7 @@
 
 ## Django
 
+* [Empty database](https://github.com/CuriousLearner/til/blob/main/django/empty-database.md) - 2023-07-08
 * [Use `defer()` to limit fields fetched from models](https://github.com/CuriousLearner/til/blob/main/django/defer-fields-for-performance.md) - 2023-02-12
 * [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
 
@@ -43,12 +44,16 @@
 
 ## PDF
 
-* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 * [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 
 ## Poetry
 
 * [Clear cache for resolving dependencies faster](https://github.com/CuriousLearner/til/blob/main/poetry/clear-cache-for-resolving-dependencies-faster.md) - 2023-02-16
+
+## Psql
+
+* [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
 
 ## React
 
