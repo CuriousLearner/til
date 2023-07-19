@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->25<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->26<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -13,6 +13,7 @@
 
 ## CLI
 
+* [Pass Arguments From Previous Command](https://github.com/CuriousLearner/til/blob/main/cli/pass-arguments-from-previous-command.md) - 2023-07-19
 * [Execute last command with sudo](https://github.com/CuriousLearner/til/blob/main/cli/execute-previous-command-with-sudo.md) - 2023-02-13
 
 ## Django
