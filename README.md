@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->26<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->27<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -55,6 +55,10 @@
 ## PSQL
 
 * [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
+
+## Python
+
+* [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update_dependencies_in_requirements.md) - 2023-11-18
 
 ## React
 
