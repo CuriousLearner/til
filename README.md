@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->27<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->28<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -26,6 +26,10 @@
 
 * [Print SQL on ORM queries](https://github.com/CuriousLearner/til/blob/main/django_extensions/print-sql-on-orm-queries.md) - 2023-02-16
 
+## Docker
+
+* [Filter list of docker containers](https://github.com/CuriousLearner/til/blob/main/docker/filter_list_of_containers.md) - 2023-11-20
+
 ## Git
 
 * [Ignore commits in git-blame view](https://github.com/CuriousLearner/til/blob/main/git/ignore-commits-in-git-blame.md) - 2023-02-13
@@ -45,8 +49,8 @@
 
 ## PDF
 
-* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 * [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
+* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 
 ## Poetry
 
