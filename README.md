@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->28<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->29<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -49,8 +49,8 @@
 
 ## PDF
 
-* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 * [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 
 ## Poetry
 
@@ -59,6 +59,10 @@
 ## PSQL
 
 * [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
+
+## Pytest
+
+* [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture_autouse.md) - 2024-03-28
 
 ## Python
 
