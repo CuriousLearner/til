@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->29<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->30<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -87,6 +87,10 @@
 ## VLC
 
 * [Cast video to chromecast](https://github.com/CuriousLearner/til/blob/main/vlc/cast-video-to-chromecast.md) - 2023-02-13
+
+## Wagtail
+
+* [Lazily Refer Snippet in blocks](https://github.com/CuriousLearner/til/blob/main/wagtail/lazily_refer_snippet.md) - 2024-03-30
 <!-- index ends -->
 
 * * * * *
