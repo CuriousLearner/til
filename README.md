@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->32<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->33<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -46,6 +46,10 @@
 ## Mastodon
 
 * [Sending direct message on Mastodon](https://github.com/CuriousLearner/til/blob/main/mastodon/send-direct-message.md) - 2023-02-14
+
+## NPM
+
+* [`npm ci` (clean install) for CI pipelines](https://github.com/CuriousLearner/til/blob/main/npm/clean_install_for_ci_pipelines.md) - 2024-04-03
 
 ## PDF
 
