@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->33<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->34<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -58,6 +58,7 @@
 
 ## Poetry
 
+* [Editable installation for a package](https://github.com/CuriousLearner/til/blob/main/poetry/editable_installation_for_package.md) - 2024-04-03
 * [Generate requirements without hashes](https://github.com/CuriousLearner/til/blob/main/poetry/generate_requirements_without_hashes.md) - 2024-04-03
 * [Clear cache for resolving dependencies faster](https://github.com/CuriousLearner/til/blob/main/poetry/clear-cache-for-resolving-dependencies-faster.md) - 2023-02-16
 
