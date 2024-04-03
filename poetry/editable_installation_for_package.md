@@ -11,3 +11,9 @@ In poetry, you can use the `path` option with `develop` as `true` to install a p
 ```bash
 pacakge = {path= "/path/to/package", develop = true}
 ```
+
+With poetry, you can also use the `--editable` flag to install a package in editable mode.
+
+```bash
+poetry add --editable /path/to/package
+```
