@@ -14,6 +14,7 @@ KNOWN_ABBREVIATIONS = [
     "ssh",
     "vim",
     "vlc",
+    "npm",
 ]
 
 
