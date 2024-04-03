@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->31<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->32<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -63,6 +63,7 @@
 
 ## Pytest
 
+* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run_filtered_tests_by_substring.md) - 2024-04-03
 * [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture_autouse.md) - 2024-03-28
 
 ## Python
