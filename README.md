@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->34<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->35<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -32,6 +32,7 @@
 
 ## Git
 
+* [git merge-base for common-ancestor commit](https://github.com/CuriousLearner/til/blob/main/git/merge-base-for-common-ancestor-commit.md) - 2024-04-18
 * [Ignore commits in git-blame view](https://github.com/CuriousLearner/til/blob/main/git/ignore-commits-in-git-blame.md) - 2023-02-13
 
 ## Github
@@ -53,8 +54,8 @@
 
 ## PDF
 
-* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 * [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
+* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 
 ## Poetry
 
