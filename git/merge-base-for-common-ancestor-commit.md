@@ -1,4 +1,4 @@
-# git merge-base for common-ancestor commit
+# `git merge-base` for common-ancestor commit
 
 `git merge-base` is a command used in Git, a distributed version control system. This command finds the (most recent) common ancestor commit of two branches or commits.
 

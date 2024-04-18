@@ -1,4 +1,4 @@
-# git diff --name-only for file names only
+# `git diff --name-only` for file names only
 
 `git diff --name-only` is a command used in Git, a distributed version control system. This command compares the working directory with the staging area (index) and outputs the names of files that have changed.
 

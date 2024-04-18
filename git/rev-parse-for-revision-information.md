@@ -1,4 +1,4 @@
-# git rev-parse for parsing Git revision information
+# `git rev-parse` for parsing Git revision information
 
 `git rev-parse` is a command used in Git, a distributed version control system. This command is used to parse Git revision information. It can be used to get the SHA-1 hash of a commit, the name of a branch, or the path of a file in the repository.
 
