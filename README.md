@@ -32,9 +32,9 @@
 
 ## Git
 
-* [git rev-parse for parsing Git revision information](https://github.com/CuriousLearner/til/blob/main/git/rev-parse-for-revision-information.md) - 2024-04-18
-* [git diff --name-only for file names only](https://github.com/CuriousLearner/til/blob/main/git/diff-name-only.md) - 2024-04-18
-* [git merge-base for common-ancestor commit](https://github.com/CuriousLearner/til/blob/main/git/merge-base-for-common-ancestor-commit.md) - 2024-04-18
+* [`git rev-parse` for parsing Git revision information](https://github.com/CuriousLearner/til/blob/main/git/rev-parse-for-revision-information.md) - 2024-04-18
+* [`git diff --name-only` for file names only](https://github.com/CuriousLearner/til/blob/main/git/diff-name-only.md) - 2024-04-18
+* [`git merge-base` for common-ancestor commit](https://github.com/CuriousLearner/til/blob/main/git/merge-base-for-common-ancestor-commit.md) - 2024-04-18
 * [Ignore commits in git-blame view](https://github.com/CuriousLearner/til/blob/main/git/ignore-commits-in-git-blame.md) - 2023-02-13
 
 ## Github
