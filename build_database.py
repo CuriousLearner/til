@@ -1,9 +1,11 @@
 # Initially taken from Lacey Williams Henschel & Simon Willison: https://github.com/simonw/til/blob/0abdc32464f1bc726abebdbc147b945d22bae7a8/build_database.py
-from datetime import timezone
-import git
+import json
 import pathlib
+from datetime import timezone
+
 import sqlite_utils
 
+import git
 
 ROOT_PATH = pathlib.Path(__file__).parent.resolve()
 USERNAME = "CuriousLearner"
@@ -54,5 +56,34 @@ def build_database(repo_path):
         table.enable_fts(["title", "body"])
 
 
+def save_db_as_json(db_path):
+    db = sqlite_utils.Database(db_path)
+    cursor = db.conn.cursor()
+    db_json = cursor.execute(
+        """
+    SELECT json_object(
+        'til',
+        json_group_array(
+            json_object(
+                'path', path,
+                'topic', topic,
+                'title', title,
+                'url', url,
+                'body', body,
+                'created', created,
+                'created_utc', created_utc,
+                'updated', updated,
+                'updated_utc', updated_utc
+            )
+        )
+    )
+    FROM til
+"""
+    ).fetchone()[0]
+    with open(db_path.with_suffix(".json"), "w") as f:
+        f.write(json.dumps(json.loads(db_json)["til"]))
+
+
 if __name__ == "__main__":
     build_database(ROOT_PATH)
+    save_db_as_json(ROOT_PATH / "til.db")
