@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->37<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->38<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -76,6 +76,7 @@
 
 ## Python
 
+* [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle_cors_simple_http_server.md) - 2024-04-19
 * [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update_dependencies_in_requirements.md) - 2023-11-18
 
 ## React
