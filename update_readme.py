@@ -9,12 +9,13 @@ root = pathlib.Path(__file__).parent.resolve()
 KNOWN_ABBREVIATIONS = [
     "aws",
     "cli",
+    "css",
+    "npm",
     "pdf",
     "psql",
     "ssh",
     "vim",
     "vlc",
-    "npm",
 ]
 
 
