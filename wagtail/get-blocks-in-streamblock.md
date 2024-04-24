@@ -1,4 +1,4 @@
-# Get blocks in StreamBlock using blocks_by_name, first_block_by_name
+# Get blocks in StreamBlock using `blocks_by_name` & `first_block_by_name`
 
 If you're using a StreamField, you can access the blocks using the `blocks_by_name` method. This will return a list of the blocks with the given name.
 
