@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->39<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->40<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -105,6 +105,7 @@
 
 ## Wagtail
 
+* [Many to Many relationship in Wagtail](https://github.com/CuriousLearner/til/blob/main/wagtail/many-to-many-relationship.md) - 2024-04-25
 * [Lazily Refer Snippet in blocks](https://github.com/CuriousLearner/til/blob/main/wagtail/lazily_refer_snippet.md) - 2024-03-30
 <!-- index ends -->
 
