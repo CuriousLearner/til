@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->41<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->42<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -22,6 +22,7 @@
 
 ## Django
 
+* [Generate random secret key](https://github.com/CuriousLearner/til/blob/main/django/generate-random-secrety-key.md) - 2024-06-03
 * [Empty database](https://github.com/CuriousLearner/til/blob/main/django/empty-database.md) - 2023-07-08
 * [Use `defer()` to limit fields fetched from models](https://github.com/CuriousLearner/til/blob/main/django/defer-fields-for-performance.md) - 2023-02-12
 * [Redundant all chaining in queryset](https://github.com/CuriousLearner/til/blob/main/django/redundant-all-in-queryset.md) - 2023-02-12
