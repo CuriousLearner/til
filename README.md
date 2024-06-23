@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->44<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->45<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -86,6 +86,7 @@
 
 ## Python
 
+* [Expand home directory paths in `pathlib.Path`](https://github.com/CuriousLearner/til/blob/main/python/pathlib-path-expand-user.md) - 2024-06-23
 * [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle_cors_simple_http_server.md) - 2024-04-19
 * [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update_dependencies_in_requirements.md) - 2023-11-18
 
