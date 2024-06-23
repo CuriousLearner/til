@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->42<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->43<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -50,6 +50,10 @@
 
 * [Enable automatic inline annotations in PR using Ruff](https://github.com/CuriousLearner/til/blob/main/github-actions/ruff-github-comments.md) - 2023-02-13
 * [Permissions for pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
+
+## Go
+
+* [Build tags in Golang](https://github.com/CuriousLearner/til/blob/main/go/build-tags.md) - 2024-06-23
 
 ## Mastodon
 
