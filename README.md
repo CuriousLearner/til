@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->46<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->47<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -55,6 +55,7 @@
 
 ## Go
 
+* [Import package without using it via underscore (`_`)](https://github.com/CuriousLearner/til/blob/main/go/import-unused-package.md) - 2024-06-23
 * [Build tags in Golang](https://github.com/CuriousLearner/til/blob/main/go/build-tags.md) - 2024-06-23
 
 ## Mastodon
