@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->48<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->49<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -35,6 +35,7 @@
 
 ## Docker
 
+* [Get rid of persistent volumes in `docker compose down`](https://github.com/CuriousLearner/til/blob/main/docker/get-rid-of-persistent-volume-docker-compose.md) - 2024-06-23
 * [Filter list of docker containers](https://github.com/CuriousLearner/til/blob/main/docker/filter_list_of_containers.md) - 2023-11-20
 
 ## Git
