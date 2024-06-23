@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->47<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->48<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -79,6 +79,7 @@
 
 ## PSQL
 
+* [Restore database via template](https://github.com/CuriousLearner/til/blob/main/psql/restore-via-template.md) - 2024-06-23
 * [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
 
 ## Pytest
