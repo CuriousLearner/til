@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->49<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->50<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -101,6 +101,10 @@
 ## SSH
 
 * [Setup SSH Tunneling](https://github.com/CuriousLearner/til/blob/main/ssh/setup-ssh-tunneling.md) - 2023-07-08
+
+## Terraform
+
+* [Lifecycle Ignore changes](https://github.com/CuriousLearner/til/blob/main/terraform/lifecycle-ignore-changes.md) - 2024-07-03
 
 ## VIM
 
