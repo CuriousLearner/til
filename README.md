@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->55<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->56<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -113,6 +113,10 @@
 
 * [Zip Lambda code](https://github.com/CuriousLearner/til/blob/main/terraform/zip-lambda-code.md) - 2024-09-06
 * [Lifecycle Ignore changes](https://github.com/CuriousLearner/til/blob/main/terraform/lifecycle-ignore-changes.md) - 2024-07-03
+
+## Terragrunt
+
+* [Force unlock state file](https://github.com/CuriousLearner/til/blob/main/terragrunt/force-unlock-state.md) - 2024-09-06
 
 ## VIM
 
