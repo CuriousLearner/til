@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->56<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->57<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -111,6 +111,7 @@
 
 ## Terraform
 
+* [Reading directly from environment variables](https://github.com/CuriousLearner/til/blob/main/terraform/get_environment_variables.md) - 2024-09-20
 * [Zip Lambda code](https://github.com/CuriousLearner/til/blob/main/terraform/zip-lambda-code.md) - 2024-09-06
 * [Lifecycle Ignore changes](https://github.com/CuriousLearner/til/blob/main/terraform/lifecycle-ignore-changes.md) - 2024-07-03
 
