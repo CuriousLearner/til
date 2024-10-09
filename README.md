@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->57<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->58<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -76,8 +76,8 @@
 
 ## PDF
 
-* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 * [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
+* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 
 ## Poetry
 
@@ -136,6 +136,10 @@
 * [Get blocks in StreamBlock using `blocks_by_name` & `first_block_by_name`](https://github.com/CuriousLearner/til/blob/main/wagtail/get-blocks-in-streamblock.md) - 2024-04-25
 * [Many to Many relationship in Wagtail](https://github.com/CuriousLearner/til/blob/main/wagtail/many-to-many-relationship.md) - 2024-04-25
 * [Lazily Refer Snippet in blocks](https://github.com/CuriousLearner/til/blob/main/wagtail/lazily_refer_snippet.md) - 2024-03-30
+
+## Yml
+
+* [YAML Anchor Tags using `<<:` and `*` Syntax](https://github.com/CuriousLearner/til/blob/main/yml/anchor-tags.md) - 2024-10-10
 <!-- index ends -->
 
 * * * * *
