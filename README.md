@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->59<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->60<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -54,6 +54,7 @@
 
 ## Github Actions
 
+* [Understanding Permissions in GitHub Actions](https://github.com/CuriousLearner/til/blob/main/github-actions/permissions.md) - 2024-10-10
 * [`paths` and `paths-ignore` filter for optimized Workflow run](https://github.com/CuriousLearner/til/blob/main/github-actions/path-filter.md) - 2024-10-10
 * [Enable automatic inline annotations in PR using Ruff](https://github.com/CuriousLearner/til/blob/main/github-actions/ruff-github-comments.md) - 2023-02-13
 * [Permissions for pushing to a repository](https://github.com/CuriousLearner/til/blob/main/github-actions/push-to-repo.md) - 2023-02-12
