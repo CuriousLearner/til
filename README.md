@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->60<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->61<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -13,6 +13,7 @@
 
 ## CLI
 
+* [Unzip overwrite and place content in a directory](https://github.com/CuriousLearner/til/blob/main/cli/unzip-overwrite-specify-directory.md) - 2025-02-10
 * [`envsubst` command for substituting values in config files](https://github.com/CuriousLearner/til/blob/main/cli/envsubst-command-for-config-files.md) - 2024-07-28
 * [Pass Arguments From Previous Command](https://github.com/CuriousLearner/til/blob/main/cli/pass-arguments-from-previous-command.md) - 2023-07-19
 * [Execute last command with sudo](https://github.com/CuriousLearner/til/blob/main/cli/execute-previous-command-with-sudo.md) - 2023-02-13
@@ -78,8 +79,8 @@
 
 ## PDF
 
-* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 * [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 
 ## Poetry
 
