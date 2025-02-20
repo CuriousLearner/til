@@ -9,7 +9,7 @@ git stash --staged
 ```
 
 * ✅ Moves staged (indexed) changes to stash.
-* ❌ Leaves unstaged changes in the working directory.
+* ❗ Leaves unstaged changes in the working directory.
 
 ## 🔥 Stash Only Unstaged Changes
 
@@ -18,7 +18,7 @@ git stash -k  # or --keep-index
 ```
 
 * ✅ Moves unstaged changes to stash.
-* ❌ Keeps staged changes for commit.
+* ❗ Keeps staged changes for commit.
 
 ## 🔥 Stash Selected Files
 
@@ -28,4 +28,4 @@ git stash push -m "stash message" -- path/to/file1 path/to/file2
 
 * ✅ Stashes only the specified files.
 * ✅ Allows adding a message for reference.
-* ❌ Other changes remain untouched.
+* ❗ Other changes remain untouched.
