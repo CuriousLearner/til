@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->67<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->68<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -24,6 +24,7 @@
 
 ## Django
 
+* [Isolate Redis cache for parallel tests](https://github.com/CuriousLearner/til/blob/main/django/isolate-redis-cache-for-parallel-tests.md) - 2025-02-20
 * [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
 * [Add Multiple Objects In Queryset In Many To Many Relationship](https://github.com/CuriousLearner/til/blob/main/django/set-whole-queryset-in-m2m-relationship.md) - 2024-06-23
