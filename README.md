@@ -24,7 +24,7 @@
 
 ## Django
 
-* [TIL: Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
+* [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
 * [Add Multiple Objects In Queryset In Many To Many Relationship](https://github.com/CuriousLearner/til/blob/main/django/set-whole-queryset-in-m2m-relationship.md) - 2024-06-23
 * [Generate random secret key](https://github.com/CuriousLearner/til/blob/main/django/generate-random-secrety-key.md) - 2024-06-03
@@ -44,7 +44,7 @@
 
 ## Git
 
-* [TIL: Finding Git Commits That Touched a Specific File or String](https://github.com/CuriousLearner/til/blob/main/git/finding-commits-changing-a-file.md) - 2025-02-20
+* [Finding Git Commits That Touched a Specific File or String](https://github.com/CuriousLearner/til/blob/main/git/finding-commits-changing-a-file.md) - 2025-02-20
 * [Revert file(s) state to one in diff branch](https://github.com/CuriousLearner/til/blob/main/git/revert-files-to-state-in-diff-branch.md) - 2024-07-28
 * [`git rev-parse` for parsing Git revision information](https://github.com/CuriousLearner/til/blob/main/git/rev-parse-for-revision-information.md) - 2024-04-18
 * [`git diff --name-only` for file names only](https://github.com/CuriousLearner/til/blob/main/git/diff-name-only.md) - 2024-04-18
