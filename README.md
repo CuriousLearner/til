@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->64<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->65<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -69,6 +69,7 @@
 
 ## Make
 
+* [Improve `make` Output Readability with `--output-sync` for Parallel Jobs](https://github.com/CuriousLearner/til/blob/main/make/sync-output-for-parallel-jobs.md) - 2025-02-20
 * [Speed Up Builds with `make -j` and Auto-Detect CPU Cores](https://github.com/CuriousLearner/til/blob/main/make/parallel-jobs.md) - 2025-02-20
 
 ## Markdown
