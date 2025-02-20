@@ -1,4 +1,4 @@
-# TIL: Fixing Coverage for Django's `manage.py test --parallel`
+# Fixing Coverage for Django's `manage.py test --parallel`
 
 Running `manage.py test --parallel` **dropped coverage** significantly, even though all tests passed. After debugging, I found the following key fixes:
 

@@ -1,4 +1,4 @@
-# TIL: Finding Git Commits That Touched a Specific File or String
+# Finding Git Commits That Touched a Specific File or String
 
 When working with **Git**, you may need to track changes to a file or find when a specific option (e.g., `-j` in a `Makefile`) was introduced or modified. Here are some useful commands:
 
