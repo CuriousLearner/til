@@ -39,9 +39,9 @@
 
 ## Docker
 
+* [Filter list of docker containers](https://github.com/CuriousLearner/til/blob/main/docker/filter-list-of-containers.md) - 2025-02-28
 * [Target in Docker Compose File](https://github.com/CuriousLearner/til/blob/main/docker/target-in-docker-compose.md) - 2024-07-28
 * [Get rid of persistent volumes in `docker compose down`](https://github.com/CuriousLearner/til/blob/main/docker/get-rid-of-persistent-volume-docker-compose.md) - 2024-06-23
-* [Filter list of docker containers](https://github.com/CuriousLearner/til/blob/main/docker/filter_list_of_containers.md) - 2023-11-20
 
 ## Git
 
@@ -85,7 +85,7 @@
 
 ## NPM
 
-* [`npm ci` (clean install) for CI pipelines](https://github.com/CuriousLearner/til/blob/main/npm/clean_install_for_ci_pipelines.md) - 2024-04-03
+* [`npm ci` (clean install) for CI pipelines](https://github.com/CuriousLearner/til/blob/main/npm/clean-install-for-ci-pipelines.md) - 2025-02-28
 
 ## PDF
 
@@ -94,8 +94,8 @@
 
 ## Poetry
 
-* [Editable installation for a package](https://github.com/CuriousLearner/til/blob/main/poetry/editable_installation_for_package.md) - 2024-04-03
-* [Generate requirements without hashes](https://github.com/CuriousLearner/til/blob/main/poetry/generate_requirements_without_hashes.md) - 2024-04-03
+* [Editable installation for a package](https://github.com/CuriousLearner/til/blob/main/poetry/editable-installation-for-package.md) - 2025-02-28
+* [Generate requirements without hashes](https://github.com/CuriousLearner/til/blob/main/poetry/generate-requirements-without-hashes.md) - 2025-02-28
 * [Clear cache for resolving dependencies faster](https://github.com/CuriousLearner/til/blob/main/poetry/clear-cache-for-resolving-dependencies-faster.md) - 2023-02-16
 
 ## PSQL
@@ -105,14 +105,14 @@
 
 ## Pytest
 
-* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run_filtered_tests_by_substring.md) - 2024-04-03
-* [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture_autouse.md) - 2024-03-28
+* [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
+* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 
 ## Python
 
+* [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update-dependencies-in-requirements.md) - 2025-02-28
+* [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle-cors-simple-http-server.md) - 2025-02-28
 * [Expand home directory paths in `pathlib.Path`](https://github.com/CuriousLearner/til/blob/main/python/pathlib-path-expand-user.md) - 2024-06-23
-* [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle_cors_simple_http_server.md) - 2024-04-19
-* [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update_dependencies_in_requirements.md) - 2023-11-18
 
 ## React
 
@@ -124,7 +124,7 @@
 
 ## Terraform
 
-* [Reading directly from environment variables](https://github.com/CuriousLearner/til/blob/main/terraform/get_environment_variables.md) - 2024-09-20
+* [Reading directly from environment variables](https://github.com/CuriousLearner/til/blob/main/terraform/get-environment-variables.md) - 2025-02-28
 * [Zip Lambda code](https://github.com/CuriousLearner/til/blob/main/terraform/zip-lambda-code.md) - 2024-09-06
 * [Lifecycle Ignore changes](https://github.com/CuriousLearner/til/blob/main/terraform/lifecycle-ignore-changes.md) - 2024-07-03
 
@@ -146,9 +146,9 @@
 
 ## Wagtail
 
+* [Lazily Refer Snippet in blocks](https://github.com/CuriousLearner/til/blob/main/wagtail/lazily-refer-snippet.md) - 2025-02-28
 * [Get blocks in StreamBlock using `blocks_by_name` & `first_block_by_name`](https://github.com/CuriousLearner/til/blob/main/wagtail/get-blocks-in-streamblock.md) - 2024-04-25
 * [Many to Many relationship in Wagtail](https://github.com/CuriousLearner/til/blob/main/wagtail/many-to-many-relationship.md) - 2024-04-25
-* [Lazily Refer Snippet in blocks](https://github.com/CuriousLearner/til/blob/main/wagtail/lazily_refer_snippet.md) - 2024-03-30
 
 ## Yml
 
