@@ -35,7 +35,7 @@
 
 ## Django Extensions
 
-* [Print SQL on ORM queries](https://github.com/CuriousLearner/til/blob/main/django_extensions/print-sql-on-orm-queries.md) - 2023-02-16
+* [Print SQL on ORM queries](https://github.com/CuriousLearner/til/blob/main/django-extensions/print-sql-on-orm-queries.md) - 2025-02-28
 
 ## Docker
 
