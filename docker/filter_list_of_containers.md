@@ -6,7 +6,7 @@ The `-f` flag is for filtering the list of running containers based on condition
 
 For example:
 
-```
+```bash
 docker ps -qf "name=django-web"
 ```
 
@@ -14,7 +14,7 @@ will list down the container id for container with name as `django-web`.
 
 You may plug it into commands like:
 
-```
+```bash
 docker exec -it $(docker ps -qf "name=django-web") python manage.py migrate
 ```
 
