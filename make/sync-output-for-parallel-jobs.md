@@ -4,7 +4,7 @@ When using parallel builds (`make -j`), the output from multiple jobs can get mi
 
 ## 🔥 Available `--output-sync` Options
 
-```sh
+```bash
 make -j$(nproc) --output-sync=[MODE]
 ```
 
