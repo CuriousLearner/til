@@ -4,6 +4,6 @@
 
 Example:
 
-```
+```bash
 mkdir hello-go && code $_
 ```

@@ -6,7 +6,7 @@ If we clear the cache, it would be able to resolve dependencies faster.
 
 Use the following command for clearing the cache:
 
-```
+```bash
 poetry cache clear --all pypi
 ```
 

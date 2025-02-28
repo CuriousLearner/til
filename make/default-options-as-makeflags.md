@@ -41,7 +41,7 @@ build:
 
 would run as:
 
-```sh
+```bash
 make
 ```
 

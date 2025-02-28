@@ -1,6 +1,6 @@
 # Get rid of persistent volumes in `docker compose down`
 
-```sh
+```bash
 docker compose down -v db
 ```
 
