@@ -2,7 +2,7 @@
 
 You can use `pur` to update all dependencies in a requirements file like:
 
-```
+```bash
 pur -r requirements.txt
 ```
 
