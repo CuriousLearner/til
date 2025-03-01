@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->69<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->70<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -14,6 +14,7 @@
 
 ## CLI
 
+* [Netcat (`nc`) and Raw TCP Communication](https://github.com/CuriousLearner/til/blob/main/cli/netcat-and-raw-tcp-connection.md) - 2025-03-01
 * [Unzip overwrite and place content in a directory](https://github.com/CuriousLearner/til/blob/main/cli/unzip-overwrite-specify-directory.md) - 2025-02-10
 * [`envsubst` command for substituting values in config files](https://github.com/CuriousLearner/til/blob/main/cli/envsubst-command-for-config-files.md) - 2024-07-28
 * [Pass Arguments From Previous Command](https://github.com/CuriousLearner/til/blob/main/cli/pass-arguments-from-previous-command.md) - 2023-07-19
