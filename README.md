@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->70<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->71<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -107,6 +107,7 @@
 
 ## Pytest
 
+* [Run only failed tests and stop at first failure in pytest](https://github.com/CuriousLearner/til/blob/main/pytest/run-failed-test-and-exit-at-first-failure.md) - 2025-03-04
 * [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
 * [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 
