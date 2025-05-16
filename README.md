@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->71<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->75<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -26,6 +26,9 @@
 
 ## Django
 
+* [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
+* [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
+* [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
 * [Isolate Redis cache for parallel tests](https://github.com/CuriousLearner/til/blob/main/django/isolate-redis-cache-for-parallel-tests.md) - 2025-02-20
 * [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
@@ -91,8 +94,8 @@
 
 ## PDF
 
-* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 * [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
+* [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
 
 ## Poetry
 
@@ -107,9 +110,10 @@
 
 ## Pytest
 
+* [`caplog` vs `syslog` in pytest – What’s the Difference?](https://github.com/CuriousLearner/til/blob/main/pytest/caplog-vs-syslog.md) - 2025-05-16
 * [Run only failed tests and stop at first failure in pytest](https://github.com/CuriousLearner/til/blob/main/pytest/run-failed-test-and-exit-at-first-failure.md) - 2025-03-04
-* [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
 * [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
+* [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
 
 ## Python
 
