@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->75<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->76<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -14,6 +14,7 @@
 
 ## CLI
 
+* [`apt-get distclean` for complete package cleanup](https://github.com/CuriousLearner/til/blob/main/cli/apt-get-distclean.md) - 2025-09-12
 * [Netcat (`nc`) and Raw TCP Communication](https://github.com/CuriousLearner/til/blob/main/cli/netcat-and-raw-tcp-connection.md) - 2025-03-01
 * [Unzip overwrite and place content in a directory](https://github.com/CuriousLearner/til/blob/main/cli/unzip-overwrite-specify-directory.md) - 2025-02-10
 * [`envsubst` command for substituting values in config files](https://github.com/CuriousLearner/til/blob/main/cli/envsubst-command-for-config-files.md) - 2024-07-28
@@ -26,9 +27,9 @@
 
 ## Django
 
+* [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
 * [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
-* [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
 * [Isolate Redis cache for parallel tests](https://github.com/CuriousLearner/til/blob/main/django/isolate-redis-cache-for-parallel-tests.md) - 2025-02-20
 * [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
@@ -94,8 +95,8 @@
 
 ## PDF
 
-* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 * [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 
 ## Poetry
 
