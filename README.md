@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->76<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->78<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -11,6 +11,10 @@
 * [AWS reserves five IPs per subnet](https://github.com/CuriousLearner/til/blob/main/aws/reserving-five-ips-per-subnet.md) - 2023-02-12
 * [No self-signed certificates in Cloudfront's SSL connection](https://github.com/CuriousLearner/til/blob/main/aws/no-self-signed-certificate-cloudfront.md) - 2023-02-12
 * [ACM certificate should always be in us-east-1 for Cloudfront](https://github.com/CuriousLearner/til/blob/main/aws/acm-cloudfront.md) - 2023-02-12
+
+## Bash
+
+* [Bash trap with ERR and EXIT for Error Handling](https://github.com/CuriousLearner/til/blob/main/bash/trap-err-exit-status.md) - 2025-09-18
 
 ## CLI
 
@@ -111,6 +115,7 @@
 
 ## Pytest
 
+* [Understanding pytest pythonpath and import-mode configuration](https://github.com/CuriousLearner/til/blob/main/pytest/pythonpath-import-mode-configuration.md) - 2025-09-18
 * [`caplog` vs `syslog` in pytest – What’s the Difference?](https://github.com/CuriousLearner/til/blob/main/pytest/caplog-vs-syslog.md) - 2025-05-16
 * [Run only failed tests and stop at first failure in pytest](https://github.com/CuriousLearner/til/blob/main/pytest/run-failed-test-and-exit-at-first-failure.md) - 2025-03-04
 * [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
