@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->78<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->79<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -18,6 +18,7 @@
 
 ## CLI
 
+* [Using pkill with -f flag for full command line matching](https://github.com/CuriousLearner/til/blob/main/cli/pkill-with-full-pattern-matching.md) - 2025-09-22
 * [`apt-get distclean` for complete package cleanup](https://github.com/CuriousLearner/til/blob/main/cli/apt-get-distclean.md) - 2025-09-12
 * [Netcat (`nc`) and Raw TCP Communication](https://github.com/CuriousLearner/til/blob/main/cli/netcat-and-raw-tcp-connection.md) - 2025-03-01
 * [Unzip overwrite and place content in a directory](https://github.com/CuriousLearner/til/blob/main/cli/unzip-overwrite-specify-directory.md) - 2025-02-10
