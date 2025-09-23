@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->79<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->80<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -32,6 +32,7 @@
 
 ## Django
 
+* [Using _refresh_after_create in model_bakery](https://github.com/CuriousLearner/til/blob/main/django/model-bakery-refresh-after-create.md) - 2025-09-23
 * [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
 * [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
