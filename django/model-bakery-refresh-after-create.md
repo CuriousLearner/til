@@ -1,4 +1,4 @@
-# Using _refresh_after_create in model_bakery
+# Using `_refresh_after_create` in model_bakery
 
 When using [model_bakery](https://github.com/model-bakers/model_bakery) to create test fixtures that involve models with special behaviors like `DirtyFieldsMixin`, you might need to refresh the instance from the database after creation to ensure tracking mechanisms are properly initialized.
 
