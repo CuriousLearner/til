@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->81<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->83<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -32,6 +32,7 @@
 
 ## Django
 
+* [Using EXPLAIN and EXPLAIN ANALYZE for Django QuerySets](https://github.com/CuriousLearner/til/blob/main/django/queryset-explain-analyze.md) - 2025-10-03
 * [Random ordering with order_by("?") in Django](https://github.com/CuriousLearner/til/blob/main/django/order-by-random.md) - 2025-10-02
 * [Using `_refresh_after_create` in model_bakery](https://github.com/CuriousLearner/til/blob/main/django/model-bakery-refresh-after-create.md) - 2025-09-23
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
@@ -113,6 +114,7 @@
 
 ## PSQL
 
+* [VACUUM ANALYZE in PostgreSQL](https://github.com/CuriousLearner/til/blob/main/psql/vacuum-analyze.md) - 2025-10-03
 * [Restore database via template](https://github.com/CuriousLearner/til/blob/main/psql/restore-via-template.md) - 2024-06-23
 * [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
 
