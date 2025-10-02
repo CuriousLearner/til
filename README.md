@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->80<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->81<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -32,6 +32,7 @@
 
 ## Django
 
+* [Random ordering with order_by("?") in Django](https://github.com/CuriousLearner/til/blob/main/django/order-by-random.md) - 2025-10-02
 * [Using `_refresh_after_create` in model_bakery](https://github.com/CuriousLearner/til/blob/main/django/model-bakery-refresh-after-create.md) - 2025-09-23
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
 * [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
