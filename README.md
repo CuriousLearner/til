@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->84<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->85<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -70,6 +70,7 @@
 
 ## Github
 
+* [Add Funding Information to GitHub Projects](https://github.com/CuriousLearner/til/blob/main/github/add-funding-info.md) - 2025-10-21
 * [See git-blame for a file](https://github.com/CuriousLearner/til/blob/main/github/show-git-blame-for-a-file.md) - 2023-02-13
 
 ## Github Actions
