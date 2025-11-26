@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->85<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->86<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -130,6 +130,7 @@
 
 ## Python
 
+* [`timedelta.total_seconds()` vs `timedelta.seconds` – A Critical Difference](https://github.com/CuriousLearner/til/blob/main/python/timedelta-total-seconds-vs-seconds.md) - 2025-11-26
 * [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update-dependencies-in-requirements.md) - 2025-02-28
 * [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle-cors-simple-http-server.md) - 2025-02-28
 * [Expand home directory paths in `pathlib.Path`](https://github.com/CuriousLearner/til/blob/main/python/pathlib-path-expand-user.md) - 2024-06-23
