@@ -14,7 +14,7 @@ In AWS networking, Internet Gateway (IGW) and NAT Gateway (NAT) handle private-t
     - Implements IP masquerading (N:1), meaning multiple instances can share a single public IP to make outbound connections.
     - Only supports outbound connections; inbound traffic is not directly possible.
 
-## 📌 Key takeaway:
+## Key Takeaway
 
 - Use IGW when instances need both inbound and outbound internet access.
 - Use NAT when private instances only need outbound internet access while remaining hidden from the public internet.

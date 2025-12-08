@@ -4,7 +4,7 @@
 
 ---
 
-### 🔍 **Using `nc` for Raw TCP Connections**
+### Using `nc` for Raw TCP Connections
 
 A basic connection test:
 
@@ -17,7 +17,7 @@ nc -v 127.0.0.1 9092
 
 ---
 
-### ⚡ **Sending Raw Data Over TCP**
+### Sending Raw Data Over TCP
 
 Netcat lets you send arbitrary data:
 
@@ -30,7 +30,7 @@ echo "Hello Server" | nc 127.0.0.1 9092
 
 ---
 
-### 🎯 **Why Netcat?**
+### Why Netcat?
 
 - Works with **raw TCP/UDP** (no HTTP, SSH, or extra formatting).
 - Can act as a **server**:
@@ -49,4 +49,4 @@ echo "Hello Server" | nc 127.0.0.1 9092
 
   (The `-z` option checks if the port is open without sending data.)
 
-Netcat is a versatile network Swiss Army knife, especially useful for debugging services like **Kafka, Redis, or raw socket servers**! 🚀
+Netcat is a versatile network Swiss Army knife, especially useful for debugging services like **Kafka, Redis, or raw socket servers**!

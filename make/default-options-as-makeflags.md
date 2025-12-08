@@ -2,7 +2,7 @@
 
 `MAKEFLAGS` is an environment variable that lets you set default options for `make`, avoiding the need to specify them every time.
 
-## 🔥 Usage
+## Usage
 
 Instead of running:
 
@@ -17,14 +17,14 @@ export MAKEFLAGS="-j$(nproc) --output-sync=target"
 make
 ```
 
-## 📌 Common MAKEFLAGS Options
+## Common MAKEFLAGS Options
 * `-jN` → Run N parallel jobs (-j$(nproc) uses all CPU cores).
 * `--output-sync=target` → Keeps target outputs grouped.
 * `-s` → Silent mode (no command output).
 * `-k` → Keep going even if some targets fail.
 * `--warn-undefined-variables` → Debug undefined variables.
 
-## 🚀 Example Makefile
+## Example Makefile
 
 ```make
 MAKEFLAGS += --warn-undefined-variables --environment-overrides --output-sync=target
@@ -55,4 +55,4 @@ sleep 1
 Done!
 ```
 
-`MAKEFLAGS` helps streamline make commands for faster and cleaner builds! 🚀🔥
+`MAKEFLAGS` helps streamline make commands for faster and cleaner builds!

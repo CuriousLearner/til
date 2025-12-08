@@ -2,7 +2,7 @@
 
 Parallelizing `make` builds can significantly reduce compile time. You can dynamically set the number of jobs based on available CPU cores.
 
-## 🔥 Example `Makefile`
+## Example Makefile
 
 ```make
 # Detect number of available CPU cores
@@ -15,7 +15,7 @@ all:
 	make -j$(NPROC_LIMIT) target
 ```
 
-This `Makefile` dynamically sets the number of jobs to half the available CPU cores. You can adjust the `NPROC_LIMIT` variable to suit your system. Now, your builds will run faster by utilizing multiple cores. 🚀
+This `Makefile` dynamically sets the number of jobs to half the available CPU cores. You can adjust the `NPROC_LIMIT` variable to suit your system. Now, your builds will run faster by utilizing multiple cores.
 
 The expression:
 

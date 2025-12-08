@@ -30,4 +30,4 @@ if ENVIRONMENT not in ["staging", "production"]:
 
 `DJANGO_TEST_PROCESSES` is set by Django to assign a unique worker number for each test process. We use this to calculate a unique Redis database number for each worker.
 
-Now, each test worker will use a separate Redis cache, preventing conflicts during parallel test runs. 🚀
+Now, each test worker will use a separate Redis cache, preventing conflicts during parallel test runs.

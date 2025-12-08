@@ -22,13 +22,13 @@ print(td.total_seconds())  # Output: 172805.0 (2 days + 5 seconds = 172800 + 5)
 ## Common Bug Pattern
 
 ```python
-# ❌ WRONG - This only checks the seconds component
+# WRONG - This only checks the seconds component
 if some_timedelta.seconds > 3600:
     # This will NEVER trigger for durations like "2 days"
     # because .seconds only returns 0-86399
     do_something()
 
-# ✅ CORRECT - This checks the entire duration
+# CORRECT - This checks the entire duration
 if some_timedelta.total_seconds() > 3600:
     do_something()
 ```

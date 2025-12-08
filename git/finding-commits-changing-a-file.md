@@ -12,11 +12,9 @@ When working with **Git**, you may need to track changes to a file or find when 
 | Find first commit that introduced `-j`            | `git log --follow --diff-filter=A -S'-j' -- Makefile` |
 | Show only the added/removed lines containing `-j` | `git log --follow -p -- Makefile \| grep --color -E '^-.*-j \|^\+.*-j'` |
 
-🔹 **Key Flags Explained**:
+**Key Flags Explained**:
 
--   `--follow` → Continues tracking history even if the file was renamed.
--   `-p` → Shows diffs (code changes).
--   `-S'<string>'` → Finds commits where `<string>` was added or removed.
--   `--diff-filter=A` → Finds the commit where the file or string first appeared.
-
-🚀 Now you can efficiently track changes in Git!
+-   `--follow` - Continues tracking history even if the file was renamed.
+-   `-p` - Shows diffs (code changes).
+-   `-S'<string>'` - Finds commits where `<string>` was added or removed.
+-   `--diff-filter=A` - Finds the commit where the file or string first appeared.

@@ -45,4 +45,4 @@ migrations.SeparateDatabaseAndState(
 )
 ```
 
-This updates Django’s ORM state **without touching the external DB**. 🚀
+This updates Django's ORM state **without touching the external DB**.

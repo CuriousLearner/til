@@ -22,7 +22,7 @@ Django **spawns subprocesses** for parallel tests, but coverage wasn’t trackin
     pip install coverage_enable_subprocess
     ```
 
-    This automatically enables coverage tracking in all subprocesses. This is specially useful for Django case when you won't to spend time in configuring `PYTHONPATH` and ensuring `sitecustomize` load before `django.load()` It took a while to figure this out. 🤯
+    This automatically enables coverage tracking in all subprocesses. This is specially useful for Django case when you won't to spend time in configuring `PYTHONPATH` and ensuring `sitecustomize` load before `django.load()` It took a while to figure this out.
 
     Save yourself time, and install this.
 
@@ -82,4 +82,4 @@ coverage report -m && \
 coverage xml -o /tmp/coverage/coverage.xml
 ```
 
-Now, coverage remains stable even when running tests in parallel. 🚀
+Now, coverage remains stable even when running tests in parallel.

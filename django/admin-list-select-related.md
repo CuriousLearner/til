@@ -21,8 +21,9 @@ class OrderAdmin(admin.ModelAdmin):
 ```
 
 ## Why?
-🔹 **Without `list_select_related`** → Each row triggers an **extra query** for `customer`.
-🔹 **With `list_select_related`** → Uses **JOINs** to fetch all related data **at once**, reducing query count.
+- **Without `list_select_related`** - Each row triggers an **extra query** for `customer`.
+- **With `list_select_related`** - Uses **JOINs** to fetch all related data **at once**, reducing query count.
 
-💡 **Pro Tip:** For **multiple ForeignKeys**, use `list_select_related = ("customer", "sales_rep")`.
-🚀 **Result:** Faster Django Admin with fewer queries!
+**Pro Tip:** For **multiple ForeignKeys**, use `list_select_related = ("customer", "sales_rep")`.
+
+**Result:** Faster Django Admin with fewer queries!
