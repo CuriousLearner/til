@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->87<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->90<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -60,6 +60,9 @@
 
 ## Git
 
+* [Remove Files from Git History](https://github.com/CuriousLearner/til/blob/main/git/remove-files-from-git-history.md) - 2025-12-08
+* [Rewrite Git Commit Metadata](https://github.com/CuriousLearner/til/blob/main/git/rewrite-git-commit-metadata.md) - 2025-12-08
+* [Git Garbage Collection](https://github.com/CuriousLearner/til/blob/main/git/git-garbage-collection.md) - 2025-12-08
 * [Stash Selective Changes in Git](https://github.com/CuriousLearner/til/blob/main/git/stash-selective-changes.md) - 2025-02-20
 * [Finding Git Commits That Touched a Specific File or String](https://github.com/CuriousLearner/til/blob/main/git/finding-commits-changing-a-file.md) - 2025-02-20
 * [Revert file(s) state to one in diff branch](https://github.com/CuriousLearner/til/blob/main/git/revert-files-to-state-in-diff-branch.md) - 2024-07-28
