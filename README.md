@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->90<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->91<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -60,6 +60,7 @@
 
 ## Git
 
+* [Show file contents from a specific branch](https://github.com/CuriousLearner/til/blob/main/git/show-file-from-branch.md) - 2025-12-13
 * [Remove Files from Git History](https://github.com/CuriousLearner/til/blob/main/git/remove-files-from-git-history.md) - 2025-12-08
 * [Rewrite Git Commit Metadata](https://github.com/CuriousLearner/til/blob/main/git/rewrite-git-commit-metadata.md) - 2025-12-08
 * [Git Garbage Collection](https://github.com/CuriousLearner/til/blob/main/git/git-garbage-collection.md) - 2025-12-08
