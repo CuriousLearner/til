@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->91<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->92<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -32,6 +32,7 @@
 
 ## Django
 
+* [Dynamic related_name in Abstract Models](https://github.com/CuriousLearner/til/blob/main/django/dynamic-related-name-abstract-models.md) - 2026-01-07
 * [Override Migration Locations with MIGRATION_MODULES in Django](https://github.com/CuriousLearner/til/blob/main/django/migration-modules-setting.md) - 2025-10-08
 * [Using EXPLAIN and EXPLAIN ANALYZE for Django QuerySets](https://github.com/CuriousLearner/til/blob/main/django/queryset-explain-analyze.md) - 2025-10-03
 * [Random ordering with order_by("?") in Django](https://github.com/CuriousLearner/til/blob/main/django/order-by-random.md) - 2025-10-02
