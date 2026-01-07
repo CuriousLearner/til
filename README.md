@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->92<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->93<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -90,6 +90,10 @@
 * [Using `go doc` to Read Package Documentation](https://github.com/CuriousLearner/til/blob/main/go/go-doc-command.md) - 2025-11-26
 * [Import package without using it via underscore (`_`)](https://github.com/CuriousLearner/til/blob/main/go/import-unused-package.md) - 2024-06-23
 * [Build tags in Golang](https://github.com/CuriousLearner/til/blob/main/go/build-tags.md) - 2024-06-23
+
+## Html
+
+* [Subresource Integrity (SRI) Hashes](https://github.com/CuriousLearner/til/blob/main/html/sri-hashes.md) - 2026-01-07
 
 ## Make
 
