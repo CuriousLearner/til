@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->94<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->95<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -18,6 +18,7 @@
 
 ## CLI
 
+* [Creating user accounts with expiration dates](https://github.com/CuriousLearner/til/blob/main/cli/useradd-with-expiration.md) - 2026-01-25
 * [Using `getent passwd` to query user accounts](https://github.com/CuriousLearner/til/blob/main/cli/getent-passwd.md) - 2026-01-25
 * [Using pkill with -f flag for full command line matching](https://github.com/CuriousLearner/til/blob/main/cli/pkill-with-full-pattern-matching.md) - 2025-09-22
 * [`apt-get distclean` for complete package cleanup](https://github.com/CuriousLearner/til/blob/main/cli/apt-get-distclean.md) - 2025-09-12
