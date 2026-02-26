@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->95<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->97<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -40,8 +40,8 @@
 * [Random ordering with order_by("?") in Django](https://github.com/CuriousLearner/til/blob/main/django/order-by-random.md) - 2025-10-02
 * [Using `_refresh_after_create` in model_bakery](https://github.com/CuriousLearner/til/blob/main/django/model-bakery-refresh-after-create.md) - 2025-09-23
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
-* [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
+* [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Isolate Redis cache for parallel tests](https://github.com/CuriousLearner/til/blob/main/django/isolate-redis-cache-for-parallel-tests.md) - 2025-02-20
 * [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
@@ -65,8 +65,8 @@
 
 * [Show file contents from a specific branch](https://github.com/CuriousLearner/til/blob/main/git/show-file-from-branch.md) - 2025-12-13
 * [Remove Files from Git History](https://github.com/CuriousLearner/til/blob/main/git/remove-files-from-git-history.md) - 2025-12-08
-* [Rewrite Git Commit Metadata](https://github.com/CuriousLearner/til/blob/main/git/rewrite-git-commit-metadata.md) - 2025-12-08
 * [Git Garbage Collection](https://github.com/CuriousLearner/til/blob/main/git/git-garbage-collection.md) - 2025-12-08
+* [Rewrite Git Commit Metadata](https://github.com/CuriousLearner/til/blob/main/git/rewrite-git-commit-metadata.md) - 2025-12-08
 * [Stash Selective Changes in Git](https://github.com/CuriousLearner/til/blob/main/git/stash-selective-changes.md) - 2025-02-20
 * [Finding Git Commits That Touched a Specific File or String](https://github.com/CuriousLearner/til/blob/main/git/finding-commits-changing-a-file.md) - 2025-02-20
 * [Revert file(s) state to one in diff branch](https://github.com/CuriousLearner/til/blob/main/git/revert-files-to-state-in-diff-branch.md) - 2024-07-28
@@ -95,6 +95,7 @@
 
 ## Html
 
+* [Server-Sent Events (SSE)](https://github.com/CuriousLearner/til/blob/main/html/server-sent-events.md) - 2026-02-26
 * [Subresource Integrity (SRI) Hashes](https://github.com/CuriousLearner/til/blob/main/html/sri-hashes.md) - 2026-01-07
 
 ## Make
@@ -117,8 +118,8 @@
 
 ## PDF
 
-* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 * [Reduce file size of PDF files](https://github.com/CuriousLearner/til/blob/main/pdf/compress-pdf.md) - 2023-03-15
+* [Remove PDF Password](https://github.com/CuriousLearner/til/blob/main/pdf/remove-pdf-password.md) - 2023-03-15
 
 ## Poetry
 
@@ -128,6 +129,7 @@
 
 ## PSQL
 
+* [Partial Index](https://github.com/CuriousLearner/til/blob/main/psql/partial-index.md) - 2026-02-26
 * [VACUUM ANALYZE in PostgreSQL](https://github.com/CuriousLearner/til/blob/main/psql/vacuum-analyze.md) - 2025-10-03
 * [Restore database via template](https://github.com/CuriousLearner/til/blob/main/psql/restore-via-template.md) - 2024-06-23
 * [Dump and Restore database](https://github.com/CuriousLearner/til/blob/main/psql/dump-and-restore.md) - 2023-07-08
@@ -137,14 +139,14 @@
 * [Understanding pytest pythonpath and import-mode configuration](https://github.com/CuriousLearner/til/blob/main/pytest/pythonpath-import-mode-configuration.md) - 2025-09-18
 * [`caplog` vs `syslog` in pytest – What’s the Difference?](https://github.com/CuriousLearner/til/blob/main/pytest/caplog-vs-syslog.md) - 2025-05-16
 * [Run only failed tests and stop at first failure in pytest](https://github.com/CuriousLearner/til/blob/main/pytest/run-failed-test-and-exit-at-first-failure.md) - 2025-03-04
-* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 * [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
+* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 
 ## Python
 
 * [`timedelta.total_seconds()` vs `timedelta.seconds` – A Critical Difference](https://github.com/CuriousLearner/til/blob/main/python/timedelta-total-seconds-vs-seconds.md) - 2025-11-26
-* [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update-dependencies-in-requirements.md) - 2025-02-28
 * [Handle CORS in a Simple HTTP Server](https://github.com/CuriousLearner/til/blob/main/python/handle-cors-simple-http-server.md) - 2025-02-28
+* [Update dependencies in requirements.txt](https://github.com/CuriousLearner/til/blob/main/python/update-dependencies-in-requirements.md) - 2025-02-28
 * [Expand home directory paths in `pathlib.Path`](https://github.com/CuriousLearner/til/blob/main/python/pathlib-path-expand-user.md) - 2024-06-23
 
 ## React
