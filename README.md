@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->102<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->103<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -40,8 +40,8 @@
 * [Random ordering with order_by("?") in Django](https://github.com/CuriousLearner/til/blob/main/django/order-by-random.md) - 2025-10-02
 * [Using `_refresh_after_create` in model_bakery](https://github.com/CuriousLearner/til/blob/main/django/model-bakery-refresh-after-create.md) - 2025-09-23
 * [Understanding Django ForeignKey Fields](https://github.com/CuriousLearner/til/blob/main/django/foreign-key-attrs.md) - 2025-05-16
-* [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Managing Schema-less Migrations in Django with `SeparateDatabaseAndState`](https://github.com/CuriousLearner/til/blob/main/django/separate-db-and-state-migration.md) - 2025-05-16
+* [Speed Up Django Admin with `list_select_related`](https://github.com/CuriousLearner/til/blob/main/django/admin-list-select-related.md) - 2025-05-16
 * [Isolate Redis cache for parallel tests](https://github.com/CuriousLearner/til/blob/main/django/isolate-redis-cache-for-parallel-tests.md) - 2025-02-20
 * [Fixing Coverage for Django's `manage.py test --parallel`](https://github.com/CuriousLearner/til/blob/main/django/coverage-on-parallel-tests.md) - 2025-02-20
 * [Using `add_q` in Django Queries](https://github.com/CuriousLearner/til/blob/main/django/add-q-in-django-queryset.md) - 2024-06-23
@@ -63,11 +63,12 @@
 
 ## Git
 
+* [`git log --diff-filter` — Find Commits by Change Type](https://github.com/CuriousLearner/til/blob/main/git/log-diff-filter.md) - 2026-06-12
 * [git branch --show-current](https://github.com/CuriousLearner/til/blob/main/git/branch-show-current.md) - 2026-04-10
 * [Show file contents from a specific branch](https://github.com/CuriousLearner/til/blob/main/git/show-file-from-branch.md) - 2025-12-13
-* [Remove Files from Git History](https://github.com/CuriousLearner/til/blob/main/git/remove-files-from-git-history.md) - 2025-12-08
-* [Git Garbage Collection](https://github.com/CuriousLearner/til/blob/main/git/git-garbage-collection.md) - 2025-12-08
 * [Rewrite Git Commit Metadata](https://github.com/CuriousLearner/til/blob/main/git/rewrite-git-commit-metadata.md) - 2025-12-08
+* [Git Garbage Collection](https://github.com/CuriousLearner/til/blob/main/git/git-garbage-collection.md) - 2025-12-08
+* [Remove Files from Git History](https://github.com/CuriousLearner/til/blob/main/git/remove-files-from-git-history.md) - 2025-12-08
 * [Stash Selective Changes in Git](https://github.com/CuriousLearner/til/blob/main/git/stash-selective-changes.md) - 2025-02-20
 * [Finding Git Commits That Touched a Specific File or String](https://github.com/CuriousLearner/til/blob/main/git/finding-commits-changing-a-file.md) - 2025-02-20
 * [Revert file(s) state to one in diff branch](https://github.com/CuriousLearner/til/blob/main/git/revert-files-to-state-in-diff-branch.md) - 2024-07-28
@@ -124,8 +125,8 @@
 
 ## Poetry
 
-* [Editable installation for a package](https://github.com/CuriousLearner/til/blob/main/poetry/editable-installation-for-package.md) - 2025-02-28
 * [Generate requirements without hashes](https://github.com/CuriousLearner/til/blob/main/poetry/generate-requirements-without-hashes.md) - 2025-02-28
+* [Editable installation for a package](https://github.com/CuriousLearner/til/blob/main/poetry/editable-installation-for-package.md) - 2025-02-28
 * [Clear cache for resolving dependencies faster](https://github.com/CuriousLearner/til/blob/main/poetry/clear-cache-for-resolving-dependencies-faster.md) - 2023-02-16
 
 ## PSQL
@@ -140,8 +141,8 @@
 * [Understanding pytest pythonpath and import-mode configuration](https://github.com/CuriousLearner/til/blob/main/pytest/pythonpath-import-mode-configuration.md) - 2025-09-18
 * [`caplog` vs `syslog` in pytest – What’s the Difference?](https://github.com/CuriousLearner/til/blob/main/pytest/caplog-vs-syslog.md) - 2025-05-16
 * [Run only failed tests and stop at first failure in pytest](https://github.com/CuriousLearner/til/blob/main/pytest/run-failed-test-and-exit-at-first-failure.md) - 2025-03-04
-* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 * [Autouse fixtures for common test dependencies](https://github.com/CuriousLearner/til/blob/main/pytest/fixture-autouse.md) - 2025-02-28
+* [Run tests that match substring in their name](https://github.com/CuriousLearner/til/blob/main/pytest/run-filtered-tests-by-substring.md) - 2025-02-28
 
 ## Python
 
