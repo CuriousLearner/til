@@ -2,7 +2,7 @@
 
 "Byte-sized" 😏 snippets of things I learned 🤔
 
-**<!-- count starts -->103<!-- count ends -->** TILs 🤓 so far.
+**<!-- count starts -->106<!-- count ends -->** TILs 🤓 so far.
 
 <!-- index starts -->
 ## AWS
@@ -63,6 +63,8 @@
 
 ## Git
 
+* [`git check-ignore` — Debug Which Rule Is Ignoring a Path](https://github.com/CuriousLearner/til/blob/main/git/check-ignore.md) - 2026-07-11
+* [Git's Three Layers of Ignore Rules](https://github.com/CuriousLearner/til/blob/main/git/three-layers-of-ignore-rules.md) - 2026-07-11
 * [`git log --diff-filter` — Find Commits by Change Type](https://github.com/CuriousLearner/til/blob/main/git/log-diff-filter.md) - 2026-06-12
 * [git branch --show-current](https://github.com/CuriousLearner/til/blob/main/git/branch-show-current.md) - 2026-04-10
 * [Show file contents from a specific branch](https://github.com/CuriousLearner/til/blob/main/git/show-file-from-branch.md) - 2025-12-13
@@ -131,6 +133,7 @@
 
 ## PSQL
 
+* [Adding a Parameter to a Postgres Function Requires DROP First](https://github.com/CuriousLearner/til/blob/main/psql/adding-parameter-to-function-requires-drop.md) - 2026-07-11
 * [Partial Index](https://github.com/CuriousLearner/til/blob/main/psql/partial-index.md) - 2026-02-26
 * [VACUUM ANALYZE in PostgreSQL](https://github.com/CuriousLearner/til/blob/main/psql/vacuum-analyze.md) - 2025-10-03
 * [Restore database via template](https://github.com/CuriousLearner/til/blob/main/psql/restore-via-template.md) - 2024-06-23
